@@ -1,53 +1,43 @@
-# 🚀 Software Engineer & Bot Architect
+# 💻 Hey, I'm Arda! (`devpact`)
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3670A0&width=500&lines=Software+Developer;Python+%26+C%2B%2B+Expert;Discord+Bot+Specialist;High-Security+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3670A0&width=500&lines=Building+Smart+Bots;Python+%26+C%2B%2B+Dev;Security+Enthusiast;Minecraft+%26+League+Player" alt="Typing SVG" />
 </p>
 
-## 🌐 English Profile
+## 🌐 Quick Brief
 
-I am a results-driven software developer specializing in **high-security bot architectures**, **automation**, and **system optimization**. With a deep technical foundation in Python and C++, I design scalable and intelligent solutions, particularly focused on the Discord ecosystem and advanced AI integrations.
+I’m a software developer who spends most of my time in the Discord ecosystem. I enjoy building things that actually work—whether it’s a high-security bot with AI integration or a system that automates the boring stuff. My go-to tools are **Python** and **C++**, and I’m always tweaking my setup on **Windows 11** to get that extra bit of performance.
 
-### 🛠️ Technical Ecosystem
-* **Languages:** `Python` (Advanced), `C++` (System Logic)
-* **Core Skills:** Security Protocols, API Integration, Automation, Database Management
-* **Tools:** Git, VS Code, Windows 11 Environment
+### 🛠️ Tech Stack
+* **Languages:** Python (Advanced), C++ (System Logic)
+* **Focus:** Discord API, Bot Security, OpenAI Integration, Automation
+* **Environment:** VS Code, Git, Fabric/Minecraft Modding
 
-### 🤖 Signature Discord Projects
-* **🛡️ Nova (Active)**: My primary high-security flagship project. A global moderation and control bot integrated with **Wikipedia** and **OpenAI**. It provides AI-driven server management and robust security layers.
-* **🎫 Ova**: A specialized administrative utility bot. Manages ticket systems, automated workflows, and internal server logistics to streamline community operations.
-* **🌐 Steel**: A large-scale global partnership hub and advertising platform. Although currently retired, it served as a significant networking center for server growth.
+### 🤖 What I’ve Built
+* **🛡️ Nova**: My main focus. It’s a global moderation bot that uses **OpenAI** and **Wikipedia** to keep servers safe and smart.
+* **🎫 Ova**: A simple, effective ticket system to stop server management from being a headache.
+* **🌐 Steel**: A massive partnership network I built (currently on a break, but taught me a lot about scaling).
 
-### 📫 Connect with Me
+### 📫 Let's Chat
 * **Discord:** `devpact`
 * **Email:** [miracardabayr@gmail.com](mailto:miracardabayr@gmail.com)
-* **GitHub:** [github.com/Allrda](https://github.com/Allrda)
+* **GitHub:** [Allrda](https://github.com/Allrda)
 
 ---
 
-## 🇹🇷 Türkçe Profil
+## 🇹🇷 Selam, Ben Arda!
 
-**Yüksek güvenlikli bot mimarileri**, **otomasyon** ve **sistem optimizasyonu** konularında uzmanlaşmış, sonuç odaklı bir yazılım geliştiriciyim. Python ve C++ dillerindeki teknik derinliğimle, özellikle Discord ekosistemi ve gelişmiş yapay zeka entegrasyonlarına odaklanan ölçeklenebilir çözümler tasarlıyorum.
+Yazılım geliştirmeyi, özellikle de Discord ekosistemi için güvenli ve zeki botlar üretmeyi seviyorum. Python ve C++ ile haşır neşirim; otomasyon sistemleri ve yapay zeka entegrasyonları üzerine kafa yormaktan keyif alıyorum. Sadece kod yazmakla kalmıyor, sistemin performansını ve güvenliğini en üst seviyeye çıkarmaya çalışıyorum.
 
-### 🛠️ Teknik Yetenekler
-* **Diller:** `Python` (İleri Seviye), `C++` (Sistem Mantığı)
-* **Uzmanlıklar:** Güvenlik Protokolleri, API Entegrasyonu, Otomasyon, Veri Yönetimi
-* **Araçlar:** Git, VS Code, Windows 11 Ortamı
-
-### 🤖 Öne Çıkan Discord Projeleri
-* **🛡️ Nova (Aktif)**: Amiral gemisi niteliğindeki yüksek güvenlikli projem. **Wikipedia** ve **OpenAI** entegreli, yapay zeka destekli sunucu yönetimi sağlayan global bir kontrol botu.
-* **🎫 Ova**: Yönetimsel verimlilik odaklı yardımcı bot. Topluluk operasyonlarını kolaylaştırmak için ticket sistemlerini, otomatik iş akışlarını ve sunucu lojistiğini yönetir.
-* **🌐 Steel**: Global ölçekte bir partnerlik merkezi ve reklam platformu. Şu an pasif olsa da, sunucu büyümesi için kritik bir ağ merkezi olarak hizmet vermiştir.
-
-### 📫 İletişim Bilgileri
-* **Discord:** `devpact`
-* **E-posta:** [miracardabayr@gmail.com](mailto:miracardabayr@gmail.com)
-* **GitHub:** [github.com/Allrda](https://github.com/Allrda)
+### 🚀 Nelerle Uğraşıyorum?
+* **🛡️ Nova (Aktif)**: Göz bebeğim. **OpenAI** destekli, sunucu yönetimini otomatiğe bağlayan yüksek güvenlikli bir bot.
+* **🎫 Ova**: Sunucu içindeki işleyişi kolaylaştıran, ticket ve lojistik odaklı yardımcım.
+* **🌐 Steel**: Zamanında devasa bir reklam ve partnerlik ağı kurmamı sağlayan projem (şu an dinlenmede).
 
 ---
 
-### 📊 My GitHub Insights / İstatistiklerim
+### 📊 My GitHub Stats / İstatistikler
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Allrda&show_icons=true&theme=tokyonight" height="170" alt="Arda's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allrda&layout=compact&theme=tokyonight" height="170" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Allrda&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allrda&layout=compact&theme=tokyonight" height="170" />
 </p>
